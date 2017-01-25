@@ -16,4 +16,4 @@ $ npm run dev
 ```
 $ npm run build
 ```
-### Live demo [click][https://vk.cc/690JWN]
+### Live demo [click](https://vk.cc/690JWN)
