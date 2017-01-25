@@ -3,6 +3,7 @@
 ### Clone
 ```
 $ git clone https://github.com/voroncv/blog.git
+$ cd blog
 ```
 ### Install
 ```
