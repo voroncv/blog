@@ -1,20 +1,18 @@
-## Blog
-### The Bootstrap blog on VueJS, FireBase, Webpack
-### Clone
+# blog
+
+> A Vue.js project
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
 ```
-$ git clone https://github.com/voroncv/blog.git
-$ cd blog
-```
-### Install
-```
-$ npm i
-```
-### Setup
-```
-$ npm run dev
-```
-### Build
-```
-$ npm run build
-```
-### Live demo [click](https://vk.cc/690JWN)
+
+For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
